@@ -1,0 +1,100 @@
+section{
+	background: #fff;
+	height: auto; 
+	margin-bottom: 0;
+	margin-top: -1em
+}
+
+section .introduction_eco{
+	color: white;
+	height: auto;
+	margin-top: 1%;
+	margin-bottom: 1%;
+	border: 1px inset DodgerBlue;
+	box-shadow: 0.5px -0.5px 3px DodgerBlue
+}
+section .para_introduction{
+	text-align: justify; 
+	font-size: 12pt; 
+	color: black;
+	font-family: GEORGIA;
+	text-shadow: 2px 2px 4px DodgerBlue
+}
+
+section .logo{
+	float: left
+}
+
+section h5{
+	color: blue;
+	font-weight: bold;
+}
+section h5 a{
+	font-size: 1.3em; 
+	color: white
+}
+section .images_pos{
+	padding-top: 1%;
+}
+section .images_def li img{
+	height: 500px;
+	width: 100%;
+}
+
+section .pied_pied{
+	background-color: rgb(100,100,100); 
+	height: auto;
+}
+
+section .pied_pied h3{
+	color: orange;
+	font-weight: bold;
+}
+section .pied_pied ul{
+	list-style: none;
+	color: white ; 
+	font-size: 17pt
+}
+
+section #pied_liens li
+{
+	list-style-type: none;
+	display: inline-block;
+}
+section #pied_liens a
+{
+	margin: 2em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*STYLE SIXIEME MATH COUS mathxis*/
+.section_mathsix{
+	height: auto; margin-top: 1px;  border-bottom: 2px double white; border-radius: 6px
+}
+.section_mathsix .matiere{
+padding-left: 3%; font-size: 2.5em
+}
+
+
+
